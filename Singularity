@@ -8,4 +8,6 @@ export SLAMDUNK_VERSION=0.2.3-dev
 echo "
 export SLAMDUNK_VERSION=0.2.3-dev" >> /environment
 mkdir /clustertmp
+mkdir /scratch
+mkdir /scratch-ii2
 mkdir /groups
